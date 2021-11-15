@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <header>
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Wow, Arvind, we now have Auth!</h1>
+        <h1>Wow! Arvind, we now have Auth!</h1>
       </header>
       <AmplifySignOut />
     </div>
